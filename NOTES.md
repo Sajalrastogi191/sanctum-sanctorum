@@ -2,8 +2,8 @@
 
 ## Live Deployment & Access
 
-- **Public URL**: `https://sanctum-sanctorum-api.onrender.com` (or local via `uv run uvicorn app.main:app --reload` at `http://localhost:8000`)
-- **API Documentation**: `http://localhost:8000/docs` (Swagger UI)
+- **Public URL**: https://sanctum-sanctorum-rri5.onrender.com
+- **API Documentation**: https://sanctum-sanctorum-rri5.onrender.com/docs (Swagger UI)
 - **Default Seed Members**:
   - `wong@example.com` (Supreme)
   - `christine@example.com` (Master)
